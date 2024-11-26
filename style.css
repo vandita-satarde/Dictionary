@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(189, 239, 223);
+    color: rgb(44, 95, 78);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 50px;
+    margin: 150px;
+}
+
+.container{
+    background-color: white;
+    height: 100px;
+    padding: 40px;
+    margin: 0 400px;
+    border-radius: 6px;
+    box-shadow: 0 0 20px 0.5px rgb(196, 195, 195);
+}
+
+#search-bar{
+    padding: 10px 30px;
+    font-size: 18px;
+    border: rgb(169, 163, 163) solid 1px;
+    border-radius: 5px;
+}
+
+#the-word{
+    font-size: 16px;
+    
+}
